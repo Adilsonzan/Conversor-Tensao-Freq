@@ -5,7 +5,7 @@
 
 BYTE IOResult;
 
-//  colocado 123
+//  colocado 123456
 
 //**************************************************************
 // Disco Genérico para funções diversas
